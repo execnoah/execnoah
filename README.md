@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @execnoah
+- 👋 Hi, I’m Mert
 - 👀 I’m interested in coding and develop apps
 - 🌱 I’m currently learning c# and Python
 - 💞️ I’m looking to collaborate on ...
